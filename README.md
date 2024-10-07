@@ -1,3 +1,6 @@
+JAM DIGITAL DENGA LED DOT MATRIKS 8 X 32
+
+  
   Pada jam digital menggunakan LED Dot matriks 8 x 32 sebagai output tampilannya. 
 Dilengkapi dengan tampilan jam dengan format (jam : menit : detik) dan menampilkan 
 tanggal dengan format ( tanggal, bulan, dan tahun) yang didapat dari penggunaan Real 
